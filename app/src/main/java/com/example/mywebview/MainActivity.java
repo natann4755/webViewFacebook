@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         WebView myWebView = new WebView(this);
 
         setContentView(myWebView);
-        myWebView.loadUrl("https://m.facebook.com/pg/Ice-102826024821865/posts/?ref=page_internal/");
+//        myWebView.loadUrl("https://m.facebook.com/pg/Ice-102826024821865/posts/?ref=page_internal/");
+        myWebView.loadUrl("https://avrahammintzberg.github.io/NatanNoyman/webVeiw.html");
     }
 }
